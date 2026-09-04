@@ -1,47 +1,47 @@
 // ============================================================
-// portfolioData.js — Centralized configuration for Basava Harsha's Portfolio
+// portfolioData.js — Centralized configuration for Akuleti Bunny's Portfolio
 // All external links, personal info, and content in one place.
 // Update this file to change any content across the entire site.
 // ============================================================
 
 export const personalInfo = {
-  name: "Basava Harsha",
-  firstName: "Basava Harsha",
-  brandName: "Harsha",
+  name: "Akuleti Bunny",
+  firstName: "Bunny",
+  brandName: "Bunny.",
   title: "AI & ML Engineer",
-  location: "Vuyyur, India",
-  phone: "+91 9553576749",
+  location: "Anantapur, India",
+  phone: "+91 9347096234",
   emails: {
-    primary: "harshabasava970@gmail.com",
+    primary: "bunnyakuleti@gmail.com",
     secondary: "",
   },
   summary:
-    "Motivated, enthusiastic and dedicated Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. Proficient in Python and Java with a solid understanding of programming fundamentals and problem-solving techniques. Eager to apply technical knowledge and AI concepts to develop innovative solutions for real-world challenges.",
-  resumeUrl: "/Harsha_Basava_Resume.pdf",
+    "Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, with hands-on experience developing AI-powered applications using Python. Experienced in building project-based solutions with AI assisted development, APIs, databases, and cloud technologies. Strong problem-solving skills with a willingness to learn and adapt to new technologies.",
+  resumeUrl: "/Bunny_Akuleti_Resume.pdf",
 };
 
 export const socialLinks = {
-  github: "https://github.com/harshabasava970-bot",
-  linkedin: "https://www.linkedin.com/in/basava-harsha-b256a7367",
+  github: "https://github.com/bunnyakuleti-ux",
+  linkedin: "https://www.linkedin.com/in/bunny-akuleti-014b6a31b",
   instagram: null,
 };
 
 export const heroContent = {
-  greeting: "Hi, I'm Basava Harsha",
+  greeting: "Hi, I'm Akuleti Bunny",
   titleHighlight: "AI & ML Engineer",
   subtitle:
-    "I build AI agents, cybersecurity platforms, and full-stack applications using Python, FastAPI, LangChain, and modern ML technologies.",
+    "I build AI-powered cybersecurity platforms, intelligent agents, and full-stack applications using Python, FastAPI, LangChain, and modern ML technologies.",
   ctaPrimary: { text: "View My Work", href: "#projects" },
   ctaSecondary: {
     text: "Contact Me",
-    href: "mailto:harshabasava970@gmail.com?subject=Hiring Inquiry – Portfolio&body=Hello Basava Harsha,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
+    href: "mailto:bunnyakuleti@gmail.com?subject=Hiring Inquiry – Portfolio&body=Hello Bunny,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
   },
-  ctaResume: { text: "Download Resume", href: "/Harsha_Basava_Resume.pdf" },
+  ctaResume: { text: "Download Resume", href: "/Bunny_Akuleti_Resume.pdf" },
 };
 
 export const aboutContent = {
   heading: "Hello!",
-  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Basava Harsha</span>, a CSE student specializing in Artificial Intelligence and Machine Learning, based in Vuyyur, India. I'm passionate about building intelligent, real-world applications — from explainable AI cybersecurity platforms to LLM-powered agents — using Python, FastAPI, LangChain, and full-stack technologies.`,
+  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Akuleti Bunny</span>, a CSE student specializing in Artificial Intelligence and Machine Learning, based in Anantapur, India. I'm passionate about building intelligent, real-world applications — from explainable AI cybersecurity platforms to LLM-powered agents — using Python, FastAPI, LangChain, and full-stack technologies.`,
   techStack: ["Python", "FastAPI", "React"],
 };
 
@@ -81,16 +81,15 @@ export const technicalSkills = {
       title: "Programming Languages",
       skills: [
         { name: "Python", level: 90 },
-        { name: "Java", level: 80 },
       ],
     },
     {
-      title: "AI & Machine Learning",
+      title: "Artificial Intelligence",
       skills: [
         { name: "Prompt Engineering", level: 88 },
         { name: "Responsible AI", level: 82 },
-        { name: "YOLOv8 / OpenCV", level: 85 },
-        { name: "HuggingFace Transformers", level: 82 },
+        { name: "AI-Assisted Development", level: 85 },
+        { name: "HuggingFace Transformers", level: 80 },
         { name: "SHAP / LIME (XAI)", level: 80 },
         { name: "XGBoost / Scikit-learn", level: 84 },
       ],
@@ -101,38 +100,34 @@ export const technicalSkills = {
         { name: "LangChain", level: 83 },
         { name: "LangGraph", level: 80 },
         { name: "Groq API (Llama 3.3)", level: 85 },
-        { name: "Whisper (Speech-to-Text)", level: 82 },
-        { name: "Vibe Coding", level: 78 },
+        { name: "Whisper (Speech-to-Text)", level: 80 },
       ],
     },
     {
       title: "Full Stack",
       skills: [
-        { name: "React.js", level: 85 },
-        { name: "Next.js", level: 80 },
-        { name: "Node.js", level: 82 },
-        { name: "TypeScript", level: 78 },
+        { name: "React.js", level: 82 },
+        { name: "Node.js", level: 80 },
         { name: "Streamlit", level: 88 },
       ],
     },
     {
       title: "Backend & APIs",
       skills: [
-        { name: "FastAPI", level: 90 },
-        { name: "REST APIs", level: 90 },
-        { name: "GitHub Webhooks", level: 82 },
-        { name: "JWT Authentication", level: 84 },
+        { name: "FastAPI", level: 88 },
+        { name: "REST APIs", level: 88 },
+        { name: "GitHub Webhooks", level: 80 },
+        { name: "JWT Authentication", level: 82 },
       ],
     },
     {
       title: "Data, Tools & Infrastructure",
       skills: [
         { name: "MongoDB", level: 82 },
-        { name: "Power BI", level: 80 },
-        { name: "Docker", level: 80 },
-        { name: "GitHub Actions (CI/CD)", level: 82 },
+        { name: "SQLAlchemy / SQLite", level: 80 },
+        { name: "Docker", level: 78 },
+        { name: "GitHub Actions (CI/CD)", level: 80 },
         { name: "Vercel / Render", level: 88 },
-        { name: "VM VirtualBox", level: 75 },
       ],
     },
   ],
@@ -142,7 +137,7 @@ export const contentCreation = {
   badge: "AI Focus Areas",
   heading: "Where I Apply AI to the Real World",
   description:
-    "Beyond coursework, I build AI systems that solve real cybersecurity, accessibility, and automation challenges.",
+    "Beyond coursework, I build AI systems that solve real cybersecurity, automation, and full-stack challenges.",
   categories: [
     {
       title: "Explainable AI & Cybersecurity",
@@ -193,7 +188,7 @@ export const softSkillsList = [
   {
     name: "Adaptability",
     icon: "🌟",
-    desc: "Quick to learn new frameworks and tools — from YOLOv8 to FastAPI to cloud deployment.",
+    desc: "Quick to learn new frameworks and tools — from PyTorch to FastAPI to cloud deployment.",
   },
   {
     name: "Analytical Thinking",
@@ -209,16 +204,6 @@ export const softSkillsList = [
     name: "Continuous Learning",
     icon: "📚",
     desc: "Committed to staying current through certifications from Google, IBM, Microsoft, and AWS.",
-  },
-  {
-    name: "Creativity",
-    icon: "🎨",
-    desc: "Designing innovative AI solutions — from emotion-aware music players to real-time vision assistants.",
-  },
-  {
-    name: "Attention to Detail",
-    icon: "🔍",
-    desc: "Ensuring accuracy in model outputs, API design, and deployment configurations for production-ready systems.",
   },
 ];
 
@@ -244,8 +229,8 @@ export const projects = [
       "GitHub Actions",
     ],
     links: {
-      github: "https://github.com/harshabasava970-bot/adaptive-ai-cyber-threat",
-      frontendDemo: "https://cyber-threat-ai.streamlit.app",
+      github: "https://github.com/bunnyakuleti-ux",
+      frontendDemo: null,
     },
     isFlagship: true,
   },
@@ -268,8 +253,8 @@ export const projects = [
       "Render",
     ],
     links: {
-      github: "https://github.com/harshabasava970-bot/Custom-AI-agent-with-memory",
-      frontendDemo: "https://harshabasava970-bot-custom-ai-agent-with-mem-frontendapp-dscod3.streamlit.app",
+      github: "https://github.com/bunnyakuleti-ux",
+      frontendDemo: null,
     },
     isFlagship: false,
   },
@@ -279,7 +264,7 @@ export const projects = [
     badge: null,
     title: "AI Code Review Bot – GitHub PR Auto-Reviewer",
     description:
-      "An AI-powered GitHub Pull Request review automation system that performs intelligent code analysis and posts detailed review comments directly on GitHub using Groq's Llama 3.3 70B model. A FastAPI backend integrates with GitHub Webhooks and GitHub REST APIs to automatically retrieve PR diffs, analyze code quality, and generate actionable feedback for every submitted pull request. Automatically detects logic errors, security vulnerabilities, performance bottlenecks, coding standard violations, and best practice issues. Provides file-level review comments and overall approval or rejection verdicts. Deployed on Render using zero-cost cloud infrastructure.",
+      "An AI-powered GitHub Pull Request review automation system that performs intelligent code analysis and posts detailed review comments directly on GitHub using Groq's Llama 3.3 70B model. A FastAPI backend integrates with GitHub Webhooks and GitHub REST APIs to automatically retrieve PR diffs, analyze code quality, and generate actionable feedback for every submitted pull request. Automatically detects logic errors, security vulnerabilities, performance bottlenecks, coding standard violations, and best practice issues. Deployed on Render using zero-cost cloud infrastructure.",
     techTags: [
       "Python",
       "FastAPI",
@@ -290,7 +275,7 @@ export const projects = [
       "Render",
     ],
     links: {
-      github: "https://github.com/harshabasava970-bot/AI-code-review-bot",
+      github: "https://github.com/bunnyakuleti-ux",
       demo: null,
     },
     isFlagship: false,
@@ -301,7 +286,7 @@ export const projects = [
     badge: null,
     title: "TravelWear AI – Smart Weather Based Outfit Planner",
     description:
-      "A full-stack AI-powered travel fashion assistant that recommends clothing based on real-time weather conditions from OpenWeatherMap for any destination worldwide. Features a Smart Style Advisor using Canvas API color histogram analysis to detect skin tone from uploaded photos and generate personalized outfit color recommendations. Includes an AI chatbot for destination-specific clothing, food, and places-to-visit guidance, smart packing checklist with PDF export, 5-day weather forecast with travel date selection, and JWT-based authentication with saved outfits and travel history stored in MongoDB Atlas.",
+      "A full-stack AI-powered travel fashion assistant that recommends clothing based on real-time weather conditions from OpenWeatherMap for any destination worldwide. Features a Smart Style Advisor using Canvas API color histogram analysis to detect skin tone from uploaded photos and generate personalized outfit color recommendations. Includes an AI chatbot for destination-specific clothing, food, and places-to-visit guidance, smart packing checklist with PDF export, 5-day weather forecast with travel date selection, and JWT-based authentication with user data stored in MongoDB Atlas. Frontend deployed on Vercel, backend on Render.",
     techTags: [
       "React.js",
       "Node.js",
@@ -314,8 +299,8 @@ export const projects = [
       "Render",
     ],
     links: {
-      github: "https://github.com/harshabasava970-bot/travelwear-ai",
-      frontendDemo: "https://travelwear-ai.vercel.app/try-on",
+      github: "https://github.com/bunnyakuleti-ux",
+      frontendDemo: null,
     },
     isFlagship: false,
   },
@@ -327,38 +312,37 @@ export const certificates = {
       name: "Introduction to Generative AI",
       issuer: "Google Cloud",
       icon: "🤖",
-      url: "https://drive.google.com/file/d/1xEzp-pFsH_VRSs2w7CgCHXlxkug1Z_8a/view",
+      url: "https://www.linkedin.com/in/bunny-akuleti-014b6a31b",
     },
     {
       name: "AI Fundamentals",
       issuer: "IBM",
       icon: "💡",
-      url: "https://www.credly.com/badges/91bb0dca-4dab-47e2-a22f-493859970b8c/public_url",
+      url: "https://www.linkedin.com/in/bunny-akuleti-014b6a31b",
     },
     {
       name: "Introduction to AI in Azure",
       issuer: "Microsoft",
       icon: "☁️",
-      url: "https://drive.google.com/drive/folders/18lMBEaza01E38bWuIwK-soDeEHHxHf0R",
+      url: "https://www.linkedin.com/in/bunny-akuleti-014b6a31b",
     },
     {
       name: "Machine Learning Fundamentals",
-      issuer: "AWS / Azure",
+      issuer: "AWS",
       icon: "📊",
-      url: "https://drive.google.com/file/d/1M0YO3nFjocO_oYfZ9LVnUsaOPgjjW9qP/view",
+      url: "https://www.linkedin.com/in/bunny-akuleti-014b6a31b",
     },
   ],
-  viewAllUrl:
-    "https://drive.google.com/drive/folders/18lMBEaza01E38bWuIwK-soDeEHHxHf0R",
+  viewAllUrl: "https://www.linkedin.com/in/bunny-akuleti-014b6a31b",
 };
 
 export const education = {
   degree: "B.Tech – Computer Science & Engineering (AI & ML)",
   institution: "Kalasalingam Academy of Research & Education, Tamil Nadu",
-  cgpa: "8.71",
+  cgpa: "6.31",
   graduation: "2027",
-  twelfth: "Intermediate – 10/10 (Sri Chaitanya Mahila Jr Kalasala)",
-  tenth: "10th CBSE – 10/10 (Sri Chaithanya High School)",
+  twelfth: "Intermediate – 7.42/10 (Swamy Vivekananda Junior College, Andhra Pradesh)",
+  tenth: "10th – 10/10 (JVM RDT School, Andhra Pradesh)",
 };
 
 export const footerContent = {
@@ -367,8 +351,8 @@ export const footerContent = {
     "Python · FastAPI · LangChain · LangGraph",
     "AI Agents · Cybersecurity · Full Stack Apps",
   ],
-  credential: "B.Tech CSE (AI & ML) · CGPA 8.71",
-  copyright: `© ${new Date().getFullYear()} Basava Harsha | Built with React`,
+  credential: "B.Tech CSE (AI & ML) · Kalasalingam Academy",
+  copyright: `© ${new Date().getFullYear()} Akuleti Bunny | Built with React`,
 };
 
 // EmailJS Configuration

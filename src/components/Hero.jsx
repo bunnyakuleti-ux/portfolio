@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import heroPhoto from '../assets/about/harsha-avatar.jpg';
+import heroPhoto from '../assets/about/bunny-avatar.jpg';
 import { heroContent, socialLinks } from '../data/portfolioData';
 
 const Hero = () => {
@@ -15,7 +15,7 @@ const Hero = () => {
       {/* ── Full-screen background photo ── */}
       <img
         src={heroPhoto}
-        alt="Basava Harsha"
+        alt="Akuleti Bunny"
         className="absolute inset-0 w-full h-full object-cover object-center z-0"
       />
 

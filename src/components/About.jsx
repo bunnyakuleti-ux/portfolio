@@ -1,5 +1,5 @@
 import React from 'react';
-import stackImage from '../assets/about/harsha-avatar.jpg';
+import stackImage from '../assets/about/bunny-avatar.jpg';
 import { aboutContent } from '../data/portfolioData';
 
 const PythonIcon = () => (
@@ -65,7 +65,7 @@ const About = () => {
               <div className="w-full aspect-[3/4] overflow-hidden rounded-xl bg-gray-800 border-2 border-transparent">
                 <img
                   src={stackImage}
-                  alt="Basava Harsha — AI & ML Engineer"
+                  alt="Akuleti Bunny — AI & ML Engineer"
                   className="w-full h-full object-cover object-top"
                 />
               </div>
