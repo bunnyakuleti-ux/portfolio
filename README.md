@@ -1,14 +1,14 @@
-# Basava Harsha — Portfolio
+# Akuleti Bunny — Portfolio
 
 Personal portfolio website built with React + Vite + Tailwind CSS.
 
-Live: [harshabasava970-bot.github.io/portfolio](https://github.com/harshabasava970-bot/portfolio) <!-- update with your live URL -->
+Live:  <!-- update with your live URL -->
 
 ---
 
 ## About
 
-CSE student specializing in AI & ML at Kalasalingam Academy of Research & Education (CGPA 8.5/10, Expected 2027).
+CSE student specializing in AI & ML at Kalasalingam Academy of Research & Education.
 This portfolio showcases my projects, skills, certifications, and contact details.
 
 ---
@@ -22,8 +22,6 @@ Deployed on Render + Streamlit Community Cloud — supports 1000+ daily requests
 
 **Stack:** Python · FastAPI · LangGraph · LangChain · Streamlit · Groq API · Whisper · Docker · Render
 
-**Repo:** https://github.com/harshabasava970-bot/Custom-AI-agent-with-memory
-
 ---
 
 ### 2. AI Code Review Bot — GitHub PR Auto-Reviewer
@@ -33,8 +31,6 @@ Deployed on Render with zero-cost infrastructure.
 
 **Stack:** Python · FastAPI · GitHub Webhooks · GitHub REST API · Groq API · Render
 
-**Repo:** https://github.com/harshabasava970-bot/ai-code-review-bot
-
 ---
 
 ### 3. RAG Chatbot — Chat with your PDFs
@@ -43,8 +39,6 @@ Uses TF-IDF indexing + PyPDF for retrieval, Groq Llama 3.3 70B for answers, and 
 Frontend on Vercel, Dockerized FastAPI backend on Render.
 
 **Stack:** Python · FastAPI · Next.js · TF-IDF · PyPDF · Groq API · SSE · Docker · Vercel · Render
-
-**Repo:** https://github.com/harshabasava970-bot/rag-chatbot-pdf
 
 ---
 
