@@ -1,5 +1,5 @@
 import React from 'react';
-import stackImage from '../assets/about/bunny-avatar.jpg';
+import stackImage from '../assets/about/ChatGPT Image Sep 4, 2026, 09_03_15 PM.png';
 import { aboutContent } from '../data/portfolioData';
 
 const PythonIcon = () => (

@@ -17,7 +17,7 @@ export const personalInfo = {
   },
   summary:
     "Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, with hands-on experience developing AI-powered applications using Python. Experienced in building project-based solutions with AI assisted development, APIs, databases, and cloud technologies. Strong problem-solving skills with a willingness to learn and adapt to new technologies.",
-  resumeUrl: "/Bunny_Akuleti_Resume.pdf",
+  resumeUrl: "/NEW 6.31 CHINNA .pdf",
 };
 
 export const socialLinks = {
@@ -36,7 +36,7 @@ export const heroContent = {
     text: "Contact Me",
     href: "mailto:bunnyakuleti@gmail.com?subject=Hiring Inquiry – Portfolio&body=Hello Bunny,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
   },
-  ctaResume: { text: "Download Resume", href: "/Bunny_Akuleti_Resume.pdf" },
+  ctaResume: { text: "Download Resume", href: "/NEW 6.31 CHINNA .pdf" },
 };
 
 export const aboutContent = {

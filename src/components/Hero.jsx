@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import heroPhoto from '../assets/about/bunny-avatar.jpg';
+import heroPhoto from '../assets/about/ChatGPT Image Sep 4, 2026, 09_03_15 PM.png';
 import { heroContent, socialLinks } from '../data/portfolioData';
 
 const Hero = () => {
