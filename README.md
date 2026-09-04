@@ -99,6 +99,6 @@ To update any content (projects, skills, links), edit `src/data/portfolioData.js
 
 ## Contact
 
-- Email: harshabasava970@gmail.com
-- LinkedIn: https://www.linkedin.com/in/basava-harsha-b256a7367
-- GitHub: https://github.com/harshabasava970-bot
+- Email: bunnyakuleti@gmail.com
+- LinkedIn: www.linkedin.com/in/akuleti-bunny-014b6a31b
+- GitHub: https://github.com/bunnyakuleti-ux
