@@ -80,7 +80,7 @@ Open http://localhost:5173
 ```
 portfolio/
 ├── public/
-│   └── Harsha_Basava_Resume.pdf   ← Resume download
+│   └── Resume.pdf   ← Resume download
 ├── src/
 │   ├── assets/
 │   │   ├── about/                 ← Profile images
